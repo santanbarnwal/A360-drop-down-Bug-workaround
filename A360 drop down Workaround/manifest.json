@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Workaround for the Chrome bug",
+  "version": "1.0",
+  "description": "Removes aria-owns attributes from any web page you browse",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
