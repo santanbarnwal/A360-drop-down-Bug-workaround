@@ -2,6 +2,7 @@
 **Chrome and Edge Dropdown Bug Workaround**
 
 ---
+Please don't hesitate to drop me an email at santanbarnwal@gmail.com if you have any questions or found it helpful. Your feedback is valuable to me! 😊
 
 **Description:**
 
